@@ -1,5 +1,6 @@
 Projects/efforts to keep an eye on:
 
+- https://github.com/opencontainers/image-spec/issues/254
 - https://github.com/docker/docker/issues/25779
 - https://github.com/docker/docker/pull/26369
 - https://github.com/cyphar/oboci
