@@ -1,7 +1,7 @@
 {
 	"ociVersion": "1.0.0-rc1-dev",
 	"platform": {
-		"os": "fedora",
+		"os": "linux",
 		"arch": "amd64"
 	},
 	"process": {
