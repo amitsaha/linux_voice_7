@@ -1,5 +1,7 @@
 ## Changes
 
+### ocitools
+
 `ocitools` repo is now moved to [runtime-tools](https://github.com/opencontainers/runtime-tools) and the command `ocitools` has now changed to `oci-runtime-tool`. To build and install it:
 
 ```
@@ -15,6 +17,26 @@ oci version 0.0.1
 ```
 
 Hence, the command for generating the spec would now be `oci-runtime-tool generate <...>`.
+
+### oci-image-tool
+
+The `oci-image-tool` is now in [image-tools](https://github.com/opencontainers/image-tools) repository. To build it:
+
+```
+$ cd $GOPATH/src/opencontainers/
+$ git clone https://github.com/opencontainers/image-tools
+$ cd image-tools
+$ make tools
+go build ./cmd/oci-create-runtime-bundle
+go build ./cmd/oci-unpack
+go build ./cmd/oci-image-validate
+
+```
+The command to create runtime bundle is now:
+
+```
+$ $GOPATH/src/github.com/opencontainers/image-spec/oci-create-runtime-bundle <...>
+```
 
 ## Projects/efforts to keep an eye on:
 
