@@ -16,7 +16,7 @@ oci version 0.0.1
 
 Hence, the command for generating the spec would now be `oci-runtime-tool generate <...>`.
 
-Projects/efforts to keep an eye on:
+## Projects/efforts to keep an eye on:
 
 - https://github.com/opencontainers/image-spec/issues/254
 - https://github.com/docker/docker/issues/25779
@@ -26,7 +26,7 @@ Projects/efforts to keep an eye on:
 - https://github.com/opencontainers/image-spec/pull/280#issuecomment-246567771
 
 
-Readings
+## Readings
 
 - https://github.com/opencontainers/image-spec/blob/master/image-layout.md
 - https://github.com/opencontainers/image-spec/blob/master/manifest.md
