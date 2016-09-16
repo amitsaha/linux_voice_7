@@ -46,6 +46,7 @@ $ $GOPATH/src/github.com/opencontainers/image-spec/oci-create-runtime-bundle <..
 - https://github.com/cyphar/oboci
 - https://github.com/containers/build/issues/249
 - https://github.com/opencontainers/image-spec/pull/280#issuecomment-246567771
+- https://github.com/projectatomic/skopeo/issues/199
 
 
 ## Readings
