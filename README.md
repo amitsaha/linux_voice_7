@@ -40,12 +40,10 @@ $ $GOPATH/src/github.com/opencontainers/image-spec/oci-create-runtime-bundle <..
 
 ## Projects/efforts to keep an eye on:
 
-- https://github.com/opencontainers/image-spec/issues/254
-- https://github.com/docker/docker/issues/25779
 - https://github.com/docker/docker/pull/26369
 - https://github.com/cyphar/oboci
 - https://github.com/containers/build/issues/249
-- https://github.com/opencontainers/image-spec/pull/280#issuecomment-246567771
+- https://github.com/opencontainers/image-tools/pull/8
 - https://github.com/projectatomic/skopeo/issues/199
 
 
