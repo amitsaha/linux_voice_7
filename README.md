@@ -1,3 +1,10 @@
+### Creating Container Images the Hard Way
+
+Here you will find the source code discussed in the article in Linux Voice, Issue 32. 
+
+Below, I list the changes that have happened since I wrote the article and it was published. If you find another issue, please file an issue here.
+
+
 ## Changes
 
 ### ocitools
